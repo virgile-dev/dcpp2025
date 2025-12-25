@@ -2,7 +2,15 @@
 student_name: [Markus Taulbæk]
 topic: [Ai Factories EU proposal]
 ---
-# Title 1
+# Introduction
+Digital commons play a central role in creating and sustaining the digital infrastructure of digital commons. However, the rise of AI may lead to questions of whether the governance of digital commons could effectively be substituted for automatic algorithms instead of human participation. This short policy brief argues that it is important to keep human-driven governance as a central driving factor for continued governance of digital commons. 
+
+## Definition of digital commons
+Digital commons can be defined as digital systems or solutions, that are maintained by communities through peer collaboration (Open Future). What characterizes digital commons are that they are a shared ressource, they have a shared governance, and that the commoning has a potential for soeciety and state (Peugeot). But, with the rise of AI, a growing concern has been raised, that the shared governance of digital commons might be replaced with AI-governance - that is, the peer collaboration between individuals might be replaced by automatization and algorithms. The focus of this essay will therefore be on the concept of shared governance, which has been hightlighted as a main driving factor (and advantage) of digital commons, (Hess & Ostrom 2007), but also as one of the main concerts of where AI might replace human skills and qualities. 
+
+
+
+
 
 ## Title 2
 
