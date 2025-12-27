@@ -1,0 +1,69 @@
+---
+student_name: [Markus Taulbæk]
+topic: [AI and shared governance of digital commons]
+---
+
+# How is the spread of AI challenging the shared governance of digital commons?
+
+## Introduction
+Digital commons play a central role in creating and sustaining the digital infrastructure of society. However, the rise of AI has several important consequences for the functions of digital commons. AI models are largely trained on high-quality data collected from digital commons, while they themselves often create high quantities of low-quality data, making it difficult to keep up with human quality assurance (Huang & Siddarth, 2023). This begs the question: should the governance of digital commons effectively be substituted for automatic algorithms instead of human collective decision-making? This short policy brief argues that it is important to keep human-driven governance as a central driving factor for continued governance of digital commons. 
+
+## Definition of digital commons
+Digital commons can be defined as digital systems or solutions that are maintained by communities through peer collaboration (Open Future). What characterizes digital commons is that they are a shared resource, they have a shared governance, and that the commoning has a potential for society and state (Peugeot, 2013). The concept of shared governance has been highlighted as a main driving factor and advantage of digital commons (Hess & Ostrom, 2007). But with the increasing spread of AI, it is relevant to ask whether shared human governance of digital commons might effectively be replaced with AI governance. In other words, can peer collaboration between individuals be replaced by automatization and algorithms? 
+
+## The case for AI-governance 
+The main arguments for AI-driven governance are that digital commons operate in increasingly complex systems and at such scales that they exceed human capacities (Manyika et al., 2017). Automatization therefore has the potential to increase efficiency, consistency, and scalability of existing common networks (Ibid.). Likewise, AI might be able to address existing human bias and discrimination problems more efficiently (Crawford, 2016)
+
+## Why human governance remains irreplaceable
+Arguments against AI-driven governance stress that the efficiency-centered view risks reducing governance to optimization, overlooking the political and deliberative functions that commons governance historically performs. While algorithms make the governance process optimized and predictable, these only contain and display facts about the world. It is precisely these facts that need to be made meaningful and important by humans (Rouvroy, 2020). 
+Secondly, complicated algorithmic decision-making creates uncertainty about the accountability of governance and decision-making (Pasquale). Systems may be created by individuals or small groups, with little common knowledge of which filters and parameters are used for decision-making (Huang & Siddarth, 2023). In other words, it is unclear *how* decisions are made and *who* is responsible for them (Pasquale, 2015). This idea of a "black box" emphasizes the importance of human participation and perspectives in governance in general, and in the governance of digital commons in particular. Disagreements that arise from governing and deliberative interactions should not be seen as a sign of ineffectiveness, but rather as an important feature of the decision-making process.
+
+The idea of AI governance as a black box also points towards the problem of ownership. Since the development of AI is time and resource intensive, most are owned by big tech companies - thus making the AI prone to being influenced by the political or economic interests of the companies. This is especially when these companies have an almost hegemonic status in certain sectors, such as Microsoft (O'Neil et al., 2021) Big Tech's ownership of AI thereby results in vulnerabilities to hidden agendas and creates unstable geopolitical issues (Rouvroy). 
+
+While Crawford argued that AI-driven governance might help existing human bias, Eubanks highlights how data-driven policy and governance might do the exact opposite, by reinforcing the burdens of already marginalized groups (Eubanks, 2018). This is harmful due to the fact, that commons according to Ostrom benefit from the "wisdom of crowds" principle, where problems are best solved through collective deliberation and participation from individuals with different skillsets (Leyronas, Coriat & Nubukpo, 2021). 
+
+The abovementioned shows that AI has the potential to greatly increase the effectiveness in governance of digital commons, but that challenges related to deliberation, transparency and ethics call into question the legitimacy of AI decision-making. 
+
+## How should this be done?
+One of the primary challenges lies in uncertain regulation, which can harm the development of digital commons (Frion, 2023). The importance of the legal framework cannot be overstated, and nation-states should work towards sustaining secure, transparent, fair and sustainable AI (EC, 2019). 
+AI can significantly improve the effectiveness of governance and decision-making, but should not replace the human elements (OECD, 2020). It should help to enlighten and empower already existing systems, making sure to include the human perspectives in automated processes. It should support monitoring and process information, but stay away from direct decision-making and interpretation. 
+While the framework of AI-governance can be grounded in values such as fairness, transparency and ethics (IBM), human perspectives, agency and oversight are key (EC, 2019).
+
+
+
+---
+## Bibliography
+
+CRAWFORD, Kate. « Artificial Intelligence’s White Guy Problem ». The New York Times. 26 June 2016. [Online](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) [accessed on 27 December 2025].
+
+EUBANKS, Virginia. Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press. 2018. 260 p.
+
+EUROPEAN COMMISSION. Ethics Guidelines for Trustworthy AI. European Union. 2019. [Online](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) [accessed on 27 December 2025].
+
+FRION, Louise. « Digital Commons as Alternative Systems of Value ». 2023.
+
+HESS, Charlotte & OSTROM, Elinor. Understanding Knowledge as a Commons: From Theory to Practice. Cambridge (MA): MIT Press. 2007. 367 p.
+
+HUANG, H. & SIDDARTH, D. « Generative AI and the Digital Commons ». 2023.
+
+IBM. « What Is AI Governance? ». [Online](https://www.ibm.com/think/topics/ai-governance) [accessed on 27 December 2025].
+
+KOSTAKIS, Vasilis & SYMPAS, Angelos. « AI, Commons and the Political Economy of Open Source ». Policy Review. [Online](https://policyreview.info/articles/news/ai-commons/2055) [accessed on 27 December 2025].
+
+LEYRONAS, Thomas; CORIAT, Benjamin; NUBUKPO, Kako. The Commons: Drivers of Change and Opportunities in Africa. 2021.
+
+MANYIKA, James; CHUI, Michael; MIREMADI, Mehdi; BUGHIN, Jacques; GEORGE, Katy; WILLMOTT, Paul; DEWHURST, Martin. Harnessing Automation for a Future that Works. McKinsey Global Institute. [Online](https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works)  [accessed on 27 December 2025].
+
+O’NEIL, Mathieu; et al. « The Co-Production of Open Source Software by Volunteers and Big Tech Firms ». 2021.
+
+OPEN FUTURE. Digital Commons as Providers of Public Digital Infrastructures. [Online](https://openfuture.eu/publication/digital-commons-as-providers-of-public-digital-infrastructures/) [accessed on 27 December 2025].
+
+OSTROM, Elinor. Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge: Cambridge University Press. 2015 [1990]. 280 p.
+
+PASQUALE, Frank. The Black Box Society: The Secret Algorithms That Control Money and Information. Cambridge (MA): Harvard University Press. 2015. 320 p.
+
+PEUGEOT, Valérie. « Digital Commons ». Video lecture. [Online](https://www.youtube.com/watch?v=krNNzxqYqEo) [accessed on 27 December 2025].
+
+ROUVROY, Antoinette. « Algorithmic Governmentality and the Death of Politics ». Green European Journal. [Online](https://www.greeneuropeanjournal.eu/algorithmic-governmentality-and-the-death-of-politics/) [accessed on 27 December 2025].
+
+OECD. Governing with Artificial Intelligence. OECD Publishing. 2020. [Online](https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html) [accessed on 27 December 2025].
