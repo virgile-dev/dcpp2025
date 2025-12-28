@@ -1,0 +1,62 @@
+**TO:** Emma Ghariani, Head of Open Source and Digital Commons Division DINUM  
+**FROM:** Weronika Nitecka  
+**DATE:** December 28, 2025  
+**SUBJECT:** Should state-led open-source projects like PLLuM transition toward digital commons?
+
+
+## Executive Summary
+
+Poland's PLLuM represents open-source AI with closed governance. Transitioning to a digital commons governance would strengthen PLLuM's sustainability, public legitimacy, and innovation capacity. Recommendations include establishing multi-stakeholder boards, implementing public RFC processes, and allocating community funds to ensure long-term public interest over state control.
+
+
+## Introduction
+
+Poland’s 2025 Digital Decade report highlights progress in quantum computing and AI, while enterprise adoption of digital technologies and level of digital skills among citizens remains below other European countries. In the AI landscape, Poland published this year its Polish Large Language Model: PLLuM. Minister Dariusz Standerski framed PLLuM as essential for greater independence and security, both legal and licensing, and a driver of national digital skills. PLLuM aims to create a sovereign, transparent, and high-performance language technology that supports scientific research, public-sector applications, and commercial innovation. While the family of models is accessible on Hugging Face, governance is owned and financed by the Polish government. This brief examines whether transitioning PLLuM toward a digital common could better serve Poland's stated goals.
+
+
+
+## Why Transition? The case for commons governance
+
+The project addresses one form of lock-in while risking another. The model was created to challenge multilingual models like mBERT and BLOOM, which contain minimal Polish data and perform poorly on Polish-language tasks (J. Kocoń, M. Piasecki et al., 2025). However, state-only governance may not be sufficient for a wide adoption across private and corporate use cases. 
+Public legitimacy remains fragile without a community voice. While 78% of Polish citizens value digitalization of services (Eurobarometer 2025), governance without community involvement undermines trust in who benefits from the technology. The latter could limit adoption beyond government contexts. 
+Sustainability depends entirely on political continuity. PLLuM’s 14.5M złoty budget (with additional 19M złoty planned) relies entirely on the Ministry of Digital Affairs. Budget cuts or policy shifts after elections threaten the project’s future. Commons governance would distribute maintenance burdens across stakeholders, ensuring continuity beyond any single administration. 
+Moreover, state-owned AI raises questions of who monitors the algorithm when the state uses its own AI, whereas a common governance would separate deployment from oversight.
+
+
+## How to Transition? Institutional Mechanisms
+
+PLLuM represents a commons-like project given its open licensing, open development process and transparency, but it lacks shared and transparent governance. The resource asymmetry between government resources and community input is potentially fragilising the project long-term.
+Current governance is institutionally narrow. The Ministry of Digital Affairs manages strategic decisions with contributions from academic and research institutions, but no formal voice from its target audience - the civil society, independent developers and private sector users. Four mechanisms could enable the transition:
+(1) Multi-stakeholder governance board. Representatives should include academia, private sector, civil society and Polish open-source AI communities like Bielik.AI creators. 
+(2) Public request for comments (RFC) process. While PLLuM’s development was shared publicly post-launch, common governance requires prospective input. The community should challenge and contribute to the project’s roadmap. Decisions should be more contestable, not only transparent. 
+(3) Fork-friendly licensing enabling community maintained alternatives without state approval. Current Hugging Face hosting could prevent community divergence.
+(4) Community contribution fund, allocating a small percentage of PLLuM’s budget to support external researchers and independent developers beyond the current institutional consortium.
+
+
+## Recommendations
+
+Phased implementation matters as a direct full transition could risk disruption. The Ministry should first establish a community advisory board with representatives from independent research, civil society, private sector, linguistic communities. Within six months, it should implement a public RFC process for future roadmaps and decisions. In the following six months, the stakeholders should draft a new, multi-stakeholder governance and formalize the community voice within PLLuM. Subsequently, the community fund should be implemented. The Ministry should publish a transition roadmap within three months and report progress publicly every six months. The success metrics should be tracked transparently and could feature the number of external contributors to the codebase, the diversity of organizations participating in the governance, and a feedback based community satisfaction with the decision processes. 
+
+
+
+## Conclusion
+
+PLLuM showcases Poland’s technical capacity and as the project announcement states, it aims for sovereign, transparent, and high-performance language technology. However sovereignty requires more than state control and transparency requires more than open code. The project represents what can become an evolving model of digital commons, one that navigates tensions between openness, national interests and community governance. A transition to a common governance model is a strategic decision to make PLLuM sustainable and legitimate in the public opinion. 
+
+
+
+## Bibliography
+
+- CYFRAGOVPL (Ministry of Digital Affairs of Poland). (2025, August 7). https://huggingface.co/CYFRAGOVPL/collections
+
+- *Digital Commons as Providers of Public Digital Infrastructures*. (n.d.). Open Future. https://openfuture.eu/publication/digital-commons-as-providers-of-public-digital-infrastructures
+
+- Kocoń, J., Piasecki, M., Janz, A., Ferdinan, T., Radliński, Ł., Koptyra, B., Oleksy, M., Woźniak, S., Walkowiak, P., Wojtasik, K., Moska, J., Naskręt, T., Walkowiak, B., Gniewkowski, M., Szyc, K., Motyka, D., Banach, D., Dalasiński, J., Rudnicka, E., … Pęzik, P. (2025). PLLuM: A Family of Polish Large Language Models (No. arXiv:2511.03823; Version 1). arXiv. https://doi.org/10.48550/arXiv.2511.03823
+
+- *PLLuM - polski model językowy. Jak działa i do czego może się przydać?* (n.d.). Ministerstwo Cyfryzacji - Portal Gov.pl. https://www.gov.pl/web/cyfryzacja/pllum--polski-model-jezykowy-jak-dziala-i-do-czego-moze-sie-przydac
+
+- *Poland 2025 Digital Decade Country Report*. (n.d.). Shaping Europe's digital future. https://digital-strategy.ec.europa.eu/en/factpages/poland-2025-digital-decade-country-report
+
+- Rosnay, M. de, & Stalder, F. (2020, December 17). Digital commons. Internet Policy Review, 9(4). https://doi.org/10.14763/2020.4.1530
+
+- *Why Open Software Matters for Government & Civic Tech*. (n.d.). https://r2.flowershow.app/cmg40ops10000l104js8dthyc/main/raw/wp-content/uploads/2016/07/open-source-software-government-and-civic-tech.pdf
